@@ -1,0 +1,5 @@
+{
+  "name": "NeuroRead 神经阅读",
+  "description": "基于认知心理学的综合阅读训练系统，包含舒尔特表、RSVP消音读、意群视读及流畅度测评。",
+  "requestFramePermissions": []
+}
